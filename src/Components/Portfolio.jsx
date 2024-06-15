@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Service Provider",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discover my service-provider platform: designed for seamless interaction and efficient service delivery.",
+    url: "https://onlineserviceproviderbyuday.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Education Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Explore my education website: designed for intuitive navigation and interactive learning experiences.",
+    url: "https://github.com/uday-bhatiya/Education-Website",
   },
   {
-    title: "My Resume Site",
+    title: "React E-Commerce",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Discover my React e-commerce app: modern, intuitive, and designed for effortless shopping experiences.",
+    url: "https://github.com/uday-bhatiya/react-ecommerce-app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Discover my upcoming blog app built with the MERN stack! It will allow you to effortlessly create, publish, and share your thoughts with a seamless user interface and backend functionality. Stay tuned for more updates!",
+    url: "https://github.com/uday-bhatiya/blog-app",
   },
 ];
 
